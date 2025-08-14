@@ -28,9 +28,9 @@ The dataset used is **covid 19.csv**, containing:
 
 ## 🚀 How to Run
 1. Clone the repo
-2. Open the `covid19_analysis.ipynb` file in Google Colab
+2. Open the `https://colab.research.google.com/drive/1cg16QK7kHZsLh4l-obTO8l9Y1rhPO2vL` file in Google Colab
 3. Upload the dataset
 4. Run all cells
 
 ```bash
-git clone https://github.com/yourusername/covid19-analysis.git
+git clone https://github.com/praveen17052005/covid19-analysis.git
